@@ -1,0 +1,45 @@
+.row{
+    margin-top: 100px;
+}
+h1{
+    font-size: 60px;
+    color: rgba(0, 119, 255, 0.849);
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+}
+.btn{
+    block-size: 40px;
+    height: 40px;
+    width: 460px;
+}
+form{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+}
+body{
+    background-color:whitesmoke;
+}
+a{
+    margin: 10px;
+    display: block;
+
+}
+.btn-success{
+    margin: 10px;
+    margin-left: 120px;
+    height: 40px;
+    width: 220;
+    display: block !important;
+}
+.page{
+    margin-left: 1500px;
+}
